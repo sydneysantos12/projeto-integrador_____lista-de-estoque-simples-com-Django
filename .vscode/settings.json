@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "files.associations": {
+        "**/lista/templates/*.html": "django-html"
+    }
+
+    // "emmet.includeLanguages": {
+    //     "django-html": "html"
+    // }
+}
